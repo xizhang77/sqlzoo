@@ -1,0 +1,3 @@
+-- Author: Xi Zhang (xizhang1@cs.stonybrook.edu)
+-- SQLZOO: More JOIN operations
+-- url: https://sqlzoo.net/wiki/More_JOIN_operations
