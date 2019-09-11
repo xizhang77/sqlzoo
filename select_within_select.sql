@@ -1,6 +1,5 @@
 -- Author: Xi Zhang (xizhang1@cs.stonybrook.edu)
 -- SQLZOO: SELECT within SELECT Tutorial
-
 -- url: https://sqlzoo.net/wiki/SELECT_within_SELECT_Tutorial
 
 -- 1.
